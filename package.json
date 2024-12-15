@@ -1,7 +1,7 @@
 {
   "name": "bexodim",
   "version": "0.1.0",
-  "homepage": "https://bexodim.github.io",
+  "homepage": "https://bexodim.com",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
