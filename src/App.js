@@ -32,7 +32,6 @@ function App() {
             alt="Rebecca Odim"
             width={400}
             height={200}
-            className="dark:invert"
           />
         </div>
 
